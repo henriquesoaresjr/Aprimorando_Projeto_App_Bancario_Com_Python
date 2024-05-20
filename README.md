@@ -43,7 +43,7 @@ Essas funções formam a base do sistema bancário e permitem a interação com 
 
 # Resumo: Funções para Criar Usuários e Contas Bancárias
 
-Neste resumo, exploraremos duas funções essenciais para o sistema bancário em Python: `criar_usuario` e `criar_conta`. Essas funções permitem a criação de novos usuários e contas bancárias, respectivamente.
+Neste resumo, explico melhor duas funções essenciais para essa segunda parte da atividade (aprimorar o app bancario em Python): `criar_usuario` e `criar_conta`. Essas funções permitem a criação de novos usuários e contas bancárias, respectivamente.
 
 ## 1. Função `criar_usuario`
 A função `criar_usuario` é responsável por adicionar novos usuários à lista de usuários existentes. Ela segue os seguintes passos:
